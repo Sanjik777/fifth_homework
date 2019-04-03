@@ -1,0 +1,6 @@
+C:\Users\Санжар\source\repos\Fifth_homework\Fifth_homework\bin\Debug\Fifth_homework.exe
+C:\Users\Санжар\source\repos\Fifth_homework\Fifth_homework\bin\Debug\Fifth_homework.pdb
+C:\Users\Санжар\source\repos\Fifth_homework\Fifth_homework\obj\Debug\Fifth_homework.csprojResolveAssemblyReference.cache
+C:\Users\Санжар\source\repos\Fifth_homework\Fifth_homework\obj\Debug\Fifth_homework.csproj.CoreCompileInputs.cache
+C:\Users\Санжар\source\repos\Fifth_homework\Fifth_homework\obj\Debug\Fifth_homework.exe
+C:\Users\Санжар\source\repos\Fifth_homework\Fifth_homework\obj\Debug\Fifth_homework.pdb
